@@ -77,11 +77,11 @@ def handle_choice(path, spk, scores, group_avg, current_sure, idx, total_groups,
     current_final = (s * 0.80) + (c * 0.10) + (sp * 0.05) + (w * 0.05)
     print(f"\n" + "="*80)
     print(f"ПРОГРЕСС: [{f_idx}/{total_files}] | ГРУППА: [{spk}] ({idx+1}/{total_groups})")
-    print(f"СХОДСТВО ФАЙЛА: {current_final:.4f} | СРЕДНЕЕ ГРУППЫ: {group_avg:.4f} | SURE: {current_sure:.4f}")
+    print(f"СХОДСТВО ФАЙЛА: {current_final:.4f} | СРЕДНЕЕ ГРУППЫ: {group_avg:.4f} | ПОРОГ: {current_sure:.4f}")
     print("="*80)
     play_audio(sample_p, "ОБРАЗЕЦ"); time.sleep(0.2); play_audio(path, "ТЕКУЩИЙ")
     while True:
-        choice = input("\n[y] ДА | [n] НЕТ | [r] ПОВТОР | [s] ПРОПУСК: ").lower().strip()
+        choice = input("\n[y] ДА, это тот же голос | [n] НЕТ, другой | [r] ПОВТОР, проиграть еще раз | [s] ПРОПУСК: ").lower().strip()
         if choice == 'r': play_audio(sample_p, "ОБРАЗЕЦ"); time.sleep(0.2); play_audio(path, "ТЕКУЩИЙ")
         elif choice in ['y', 'n', 's']: pygame.mixer.music.stop(); return choice
 
@@ -103,7 +103,7 @@ try:
         if not knowledge_base:
             print(f"\n[{f_idx}/{total_files}] ПЕРВЫЙ ГОЛОС: {f_name}")
             play_audio(path, "СЛУШАЕМ")
-            name = input("Имя персонажа: ").strip() or "speaker_0"
+            name = input("Имя группы голоса: ").strip() or "speaker_0"
             knowledge_base[name] = {'features': [], 'paths': [], 'sure_threshold': 0.965}
             assigned_spk = name
         else:
