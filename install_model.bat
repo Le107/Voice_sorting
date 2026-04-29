@@ -3,6 +3,6 @@ call venv/scripts/activate
 
 python.exe -m pip install --upgrade pip
 pip install requests onnxruntime pygame
-pip install torchaudio
+pip install torch torchaudio torchcodec
 
 cmd
