@@ -1,0 +1,349 @@
+
+d:\Download\Ai\Voice_sorting>call venv/scripts/activate
+Модель загружена (CPU Mode для стабильности)
+
+Анализ: Mevius_1_snd.ogg
+Кто это в Mevius_1_snd.ogg? (Имя/skip): Mevius
+
+Анализ: Mevius_2_snd.ogg
+Новый голос (Score: 0.28)
+Кто это в Mevius_2_snd.ogg? (Имя/skip): Mevius
+
+Анализ: Mevius_3_snd.ogg
+>> Опознан: Mevius (0.50)
+
+Анализ: Mevius_4_snd.ogg
+>> Опознан: Mevius (0.77)
+
+Анализ: Mevius_5_snd.ogg
+>> Опознан: Mevius (0.81)
+
+Анализ: Mevius_6_snd.ogg
+>> Опознан: Mevius (0.79)
+
+Анализ: Mevius_Death_1_snd.ogg
+>> Опознан: Mevius (0.76)
+
+Анализ: Mevius_Death_2_snd.ogg
+>> Опознан: Mevius (0.76)
+
+Анализ: Mevius_Death_3_snd.ogg
+>> Опознан: Mevius (0.72)
+
+Анализ: Mevius_Death_4_snd.ogg
+>> Опознан: Mevius (0.63)
+
+Анализ: Mevius_Death_5_snd.ogg
+>> Опознан: Mevius (0.81)
+
+Анализ: Mevius_Entrance_1_snd.ogg
+>> Опознан: Mevius (0.72)
+
+Анализ: Mevius_Entrance_2_snd.ogg
+>> Опознан: Mevius (0.82)
+
+Анализ: Mevius_Entrance_3_snd.ogg
+>> Опознан: Mevius (0.84)
+
+Анализ: Mevius_Entrance_4_snd.ogg
+>> Опознан: Mevius (0.80)
+
+Анализ: Mevius_Entrance_5_snd.ogg
+>> Опознан: Mevius (1.00)
+
+Анализ: Mevius_Entrance_6_snd.ogg
+>> Опознан: Mevius (0.83)
+
+Анализ: Necromancer_01_snd.ogg
+>> Опознан: Mevius (0.73)
+
+Анализ: Necromancer_02_snd.ogg
+>> Опознан: Mevius (0.85)
+
+Анализ: Necromancer_03_snd.ogg
+>> Опознан: Mevius (0.81)
+
+Анализ: Necromancer_04_snd.ogg
+>> Опознан: Mevius (0.74)
+
+Анализ: Necromancer_05_snd.ogg
+>> Опознан: Mevius (0.77)
+
+Анализ: Necromancer_06_snd.ogg
+>> Опознан: Mevius (0.75)
+
+Анализ: Necromancer_07_snd.ogg
+>> Опознан: Mevius (0.56)
+
+Анализ: Necromancer_08_snd.ogg
+>> Опознан: Mevius (0.79)
+
+Анализ: Necromancer_09_snd.ogg
+>> Опознан: Mevius (0.77)
+
+Анализ: Necromancer_10_snd.ogg
+>> Опознан: Mevius (0.83)
+
+Анализ: Necromancer_11_snd.ogg
+>> Опознан: Mevius (0.79)
+
+Анализ: Necromancer_12_snd.ogg
+>> Опознан: Mevius (0.81)
+
+Анализ: Necromancer_13_snd.ogg
+>> Опознан: Mevius (0.81)
+
+Анализ: Necromancer_14_snd.ogg
+>> Опознан: Mevius (0.77)
+
+Анализ: Necromancer_15_snd.ogg
+>> Опознан: Mevius (0.78)
+
+Анализ: Necromancer_Boss_01_snd.ogg
+>> Опознан: Mevius (0.81)
+
+Анализ: Necromancer_Boss_02_snd.ogg
+>> Опознан: Mevius (0.82)
+
+Анализ: Necromancer_Boss_03_snd.ogg
+>> Опознан: Mevius (0.83)
+
+Анализ: Necromancer_Boss_04_snd.ogg
+>> Опознан: Mevius (0.81)
+
+Анализ: Necromancer_Boss_05_snd.ogg
+>> Опознан: Mevius (0.85)
+
+Анализ: Necromancer_snd.wav
+>> Опознан: Mevius (0.72)
+
+Анализ: Nomad_01_snd.ogg
+Новый голос (Score: 0.21)
+Кто это в Nomad_01_snd.ogg? (Имя/skip): Nomad
+
+Анализ: Nomad_02_snd.ogg
+>> Опознан: Nomad (0.36)
+
+Анализ: Nomad_03_snd.ogg
+>> Опознан: Nomad (0.60)
+
+Анализ: Nomad_04_snd.ogg
+>> Опознан: Nomad (0.73)
+
+Анализ: Nomad_05_snd.ogg
+>> Опознан: Nomad (0.69)
+
+Анализ: Nomad_06_snd.ogg
+>> Опознан: Nomad (0.75)
+
+Анализ: Nomad_07_snd.ogg
+>> Опознан: Nomad (0.62)
+
+Анализ: Nomad_08_snd.ogg
+>> Опознан: Nomad (0.57)
+
+Анализ: Nomad_09_snd.ogg
+>> Опознан: Nomad (0.50)
+
+Анализ: Nomad_10_snd.ogg
+>> Опознан: Nomad (0.62)
+
+Анализ: Nomad_11_snd.ogg
+>> Опознан: Nomad (0.73)
+
+Анализ: Nomad_12_snd.ogg
+>> Опознан: Nomad (0.71)
+
+Анализ: Nomad_13_snd.ogg
+>> Опознан: Nomad (0.70)
+
+Анализ: Nomad_14_snd.ogg
+>> Опознан: Nomad (0.77)
+
+Анализ: Nomad_15_snd.ogg
+>> Опознан: Nomad (0.73)
+
+Анализ: Nomad_Boss_01_snd.ogg
+>> Опознан: Nomad (0.66)
+
+Анализ: Nomad_Boss_02_snd.ogg
+>> Опознан: Nomad (0.77)
+
+Анализ: Nomad_Boss_03_snd.ogg
+>> Опознан: Nomad (0.73)
+
+Анализ: Nomad_Boss_04_snd.ogg
+>> Опознан: Nomad (0.79)
+
+Анализ: Nomad_Boss_05_snd.ogg
+>> Опознан: Nomad (0.64)
+
+Анализ: Nomad_Boss_06_snd.ogg
+>> Опознан: Nomad (0.70)
+
+Анализ: Nomad_Boss_07_snd.ogg
+>> Опознан: Nomad (0.59)
+
+Анализ: Nomad_Cast_01_snd.wav
+Новый голос (Score: 0.33)
+Кто это в Nomad_Cast_01_snd.wav? (Имя/skip): Nomad
+
+Анализ: Nomad_Cast_02_snd.wav
+>> Опознан: Nomad (0.58)
+
+Анализ: Nomad_snd.wav
+>> Опознан: Nomad (0.59)
+
+Анализ: Odin_Cutscene_01_snd.ogg
+>> Опознан: Mevius (0.43)
+
+Анализ: Odin_Cutscene_02_snd.ogg
+>> Опознан: Mevius (0.71)
+
+Анализ: Odin_Cutscene_03_snd.ogg
+>> Опознан: Mevius (0.85)
+
+Анализ: Odin_Cutscene_04_Laughter_snd.ogg
+>> Опознан: Mevius (0.43)
+
+Анализ: Odin_Cutscene_04_snd.ogg
+>> Опознан: Mevius (0.88)
+
+Анализ: Paladin_01_snd.ogg
+Новый голос (Score: 0.35)
+Кто это в Paladin_01_snd.ogg? (Имя/skip): Paladin
+
+Анализ: Paladin_02_snd.ogg
+>> Опознан: Paladin (0.64)
+
+Анализ: Paladin_03_snd.ogg
+>> Опознан: Paladin (0.69)
+
+Анализ: Paladin_04_snd.ogg
+>> Опознан: Paladin (0.72)
+
+Анализ: Paladin_05_snd.ogg
+>> Опознан: Paladin (0.71)
+
+Анализ: Paladin_06_snd.ogg
+>> Опознан: Paladin (0.79)
+
+Анализ: Paladin_07_snd.ogg
+>> Опознан: Paladin (0.78)
+
+Анализ: Paladin_08_snd.ogg
+>> Опознан: Paladin (0.79)
+
+Анализ: Paladin_09_snd.ogg
+>> Опознан: Paladin (0.64)
+
+Анализ: Paladin_10_snd.ogg
+>> Опознан: Paladin (0.67)
+
+Анализ: Paladin_11_snd.ogg
+>> Опознан: Paladin (0.71)
+
+Анализ: Paladin_12_snd.ogg
+>> Опознан: Paladin (0.77)
+
+Анализ: Paladin_Boss_01_snd.ogg
+>> Опознан: Paladin (0.80)
+
+Анализ: Paladin_Boss_02_snd.ogg
+>> Опознан: Paladin (0.66)
+
+Анализ: Paladin_Boss_03_snd.ogg
+>> Опознан: Paladin (0.66)
+
+Анализ: Paladin_Boss_04_snd.ogg
+>> Опознан: Paladin (0.79)
+
+Анализ: Paladin_Boss_05_snd.ogg
+>> Опознан: Paladin (0.64)
+
+Анализ: Paladin_snd.wav
+>> Опознан: Paladin (1.00)
+
+Анализ: Pirate_01_snd.ogg
+Новый голос (Score: 0.24)
+Кто это в Pirate_01_snd.ogg? (Имя/skip): Pirate
+
+Анализ: Pirate_02_snd.ogg
+>> Опознан: Pirate (0.49)
+
+Анализ: Pirate_03_snd.ogg
+Новый голос (Score: 0.33)
+Кто это в Pirate_03_snd.ogg? (Имя/skip): Pirate
+
+Анализ: Pirate_04_snd.ogg
+>> Опознан: Pirate (0.61)
+
+Анализ: Pirate_05_snd.ogg
+>> Опознан: Pirate (0.66)
+
+Анализ: Pirate_06_snd.ogg
+>> Опознан: Pirate (0.65)
+
+Анализ: Pirate_07_snd.ogg
+>> Опознан: Pirate (0.55)
+
+Анализ: Pirate_08_snd.ogg
+>> Опознан: Pirate (0.58)
+
+Анализ: Pirate_09_snd.ogg
+>> Опознан: Pirate (0.72)
+
+Анализ: Pirate_10_snd.ogg
+>> Опознан: Pirate (0.66)
+
+Анализ: Pirate_11_snd.ogg
+>> Опознан: Pirate (0.74)
+
+Анализ: Pirate_12_snd.ogg
+>> Опознан: Pirate (0.69)
+
+Анализ: Pirate_13_snd.ogg
+>> Опознан: Pirate (0.62)
+
+Анализ: Pirate_14_snd.ogg
+>> Опознан: Pirate (0.62)
+
+Анализ: Pirate_15_snd.ogg
+>> Опознан: Pirate (0.72)
+
+Анализ: Pirate_16_snd.ogg
+>> Опознан: Pirate (0.70)
+
+Анализ: Pirate_17_snd.ogg
+>> Опознан: Pirate (0.66)
+
+Анализ: Pirate_18_snd.ogg
+>> Опознан: Pirate (0.50)
+
+Анализ: Pirate_19_snd.ogg
+>> Опознан: Pirate (0.74)
+
+Анализ: Pirate_Boss_01_snd.ogg
+>> Опознан: Pirate (0.67)
+
+Анализ: Pirate_Boss_02_snd.ogg
+>> Опознан: Pirate (0.81)
+
+Анализ: Pirate_Boss_03_snd.ogg
+>> Опознан: Pirate (0.78)
+
+Анализ: Pirate_Boss_04_snd.ogg
+>> Опознан: Pirate (0.63)
+
+Анализ: Pirate_Boss_05_snd.ogg
+>> Опознан: Pirate (0.74)
+
+Анализ: Pirate_Boss_06_snd.ogg
+>> Опознан: Pirate (0.73)
+
+Анализ: Pirate_snd.wav
+>> Опознан: Pirate (0.80)
+Microsoft Windows [Version 10.0.19045.2130]
+(c) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+(venv) d:\Download\Ai\Voice_sorting>
