@@ -3,286 +3,777 @@ d:\Download\Ai\Voice_sorting>call venv/scripts/activate
 pygame 2.6.1 (SDL 2.28.4, Python 3.10.0)
 Hello from the pygame community. https://www.pygame.org/contribute.html
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-НАЙДЕНО ФАЙЛОВ: 112 | ПОРОГ СХОДСТВА: 0.75
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-
->>> АНАЛИЗ ФАЙЛА: Mevius_1_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Первый файл в сессии.
---- Слушаем ТЕКУЩИЙ: Mevius_1_snd.ogg ---
-------------------------------
-Кто это в Mevius_1_snd.ogg?: Mevius
---- Группа: Mevius ---
-
-
->>> АНАЛИЗ ФАЙЛА: Mevius_2_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Не уверен (Ближе всего к 'Mevius' со счетом 0.2784)
---- Слушаем ТЕКУЩИЙ: Mevius_2_snd.ogg ---
---- Слушаем САМЫЙ ПОХОЖИЙ ОБРАЗЕЦ (Mevius): Mevius_1_snd.ogg ---
-------------------------------
-Кто это в Mevius_2_snd.ogg? (Enter = 'Mevius' / 's' = skip): Mevius
---- Группа: Mevius ---
-
-
->>> АНАЛИЗ ФАЙЛА: Mevius_3_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Не уверен (Ближе всего к 'Mevius' со счетом 0.4952)
---- Слушаем ТЕКУЩИЙ: Mevius_3_snd.ogg ---
---- Слушаем САМЫЙ ПОХОЖИЙ ОБРАЗЕЦ (Mevius): Mevius_2_snd.ogg ---
-------------------------------
-Кто это в Mevius_3_snd.ogg? (Enter = 'Mevius' / 's' = skip): Mevius
---- Группа: Mevius ---
-
-
->>> АНАЛИЗ ФАЙЛА: Mevius_4_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Уверенно опознан как 'Mevius' (0.7710)
---- Группа: Mevius ---
-
-
->>> АНАЛИЗ ФАЙЛА: Mevius_5_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Уверенно опознан как 'Mevius' (0.8074)
---- Группа: Mevius ---
-
-
->>> АНАЛИЗ ФАЙЛА: Mevius_6_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Уверенно опознан как 'Mevius' (0.7886)
---- Группа: Mevius ---
-
-
->>> АНАЛИЗ ФАЙЛА: Mevius_Death_1_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Уверенно опознан как 'Mevius' (0.7616)
---- Группа: Mevius ---
-
-
->>> АНАЛИЗ ФАЙЛА: Mevius_Death_2_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Уверенно опознан как 'Mevius' (0.7640)
---- Группа: Mevius ---
-
-
->>> АНАЛИЗ ФАЙЛА: Mevius_Death_3_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Не уверен (Ближе всего к 'Mevius' со счетом 0.7179)
---- Слушаем ТЕКУЩИЙ: Mevius_Death_3_snd.ogg ---
---- Слушаем САМЫЙ ПОХОЖИЙ ОБРАЗЕЦ (Mevius): Mevius_4_snd.ogg ---
-------------------------------
-Кто это в Mevius_Death_3_snd.ogg? (Enter = 'Mevius' / 's' = skip): Mevius
---- Группа: Mevius ---
-
-
->>> АНАЛИЗ ФАЙЛА: Mevius_Death_4_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Не уверен (Ближе всего к 'Mevius' со счетом 0.6349)
---- Слушаем ТЕКУЩИЙ: Mevius_Death_4_snd.ogg ---
---- Слушаем САМЫЙ ПОХОЖИЙ ОБРАЗЕЦ (Mevius): Mevius_1_snd.ogg ---
-------------------------------
-Кто это в Mevius_Death_4_snd.ogg? (Enter = 'Mevius' / 's' = skip): Mevius
---- Группа: Mevius ---
-
-
->>> АНАЛИЗ ФАЙЛА: Mevius_Death_5_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Уверенно опознан как 'Mevius' (0.8110)
---- Группа: Mevius ---
-
-
->>> АНАЛИЗ ФАЙЛА: Mevius_Entrance_1_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Не уверен (Ближе всего к 'Mevius' со счетом 0.7248)
---- Слушаем ТЕКУЩИЙ: Mevius_Entrance_1_snd.ogg ---
---- Слушаем САМЫЙ ПОХОЖИЙ ОБРАЗЕЦ (Mevius): Mevius_4_snd.ogg ---
-------------------------------
-Кто это в Mevius_Entrance_1_snd.ogg? (Enter = 'Mevius' / 's' = skip): Mevius
---- Группа: Mevius ---
-
-
->>> АНАЛИЗ ФАЙЛА: Mevius_Entrance_2_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Уверенно опознан как 'Mevius' (0.8235)
---- Группа: Mevius ---
-
-
->>> АНАЛИЗ ФАЙЛА: Mevius_Entrance_3_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Уверенно опознан как 'Mevius' (0.8387)
---- Группа: Mevius ---
-
-
->>> АНАЛИЗ ФАЙЛА: Mevius_Entrance_4_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Уверенно опознан как 'Mevius' (0.7971)
---- Группа: Mevius ---
-
-
->>> АНАЛИЗ ФАЙЛА: Mevius_Entrance_5_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Уверенно опознан как 'Mevius' (0.9981)
---- Группа: Mevius ---
-
-
->>> АНАЛИЗ ФАЙЛА: Mevius_Entrance_6_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Уверенно опознан как 'Mevius' (0.8293)
---- Группа: Mevius ---
-
-
->>> АНАЛИЗ ФАЙЛА: Necromancer_01_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Не уверен (Ближе всего к 'Mevius' со счетом 0.7312)
---- Слушаем ТЕКУЩИЙ: Necromancer_01_snd.ogg ---
---- Слушаем САМЫЙ ПОХОЖИЙ ОБРАЗЕЦ (Mevius): Mevius_Entrance_6_snd.ogg ---
-------------------------------
-Кто это в Necromancer_01_snd.ogg? (Enter = 'Mevius' / 's' = skip): Necromancer
---- Группа: Necromancer ---
-
-
->>> АНАЛИЗ ФАЙЛА: Necromancer_02_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Уверенно опознан как 'Necromancer' (0.8525)
---- Группа: Necromancer ---
-
-
->>> АНАЛИЗ ФАЙЛА: Necromancer_03_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Уверенно опознан как 'Necromancer' (0.8133)
---- Группа: Necromancer ---
-
-
->>> АНАЛИЗ ФАЙЛА: Necromancer_04_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Не уверен (Ближе всего к 'Mevius' со счетом 0.7405)
---- Слушаем ТЕКУЩИЙ: Necromancer_04_snd.ogg ---
---- Слушаем САМЫЙ ПОХОЖИЙ ОБРАЗЕЦ (Mevius): Mevius_4_snd.ogg ---
-------------------------------
-Кто это в Necromancer_04_snd.ogg? (Enter = 'Mevius' / 's' = skip): Necromancer
---- Группа: Necromancer ---
-
-
->>> АНАЛИЗ ФАЙЛА: Necromancer_05_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Уверенно опознан как 'Necromancer' (0.7713)
---- Группа: Necromancer ---
-
-
->>> АНАЛИЗ ФАЙЛА: Necromancer_06_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Не уверен (Ближе всего к 'Necromancer' со счетом 0.7492)
---- Слушаем ТЕКУЩИЙ: Necromancer_06_snd.ogg ---
---- Слушаем САМЫЙ ПОХОЖИЙ ОБРАЗЕЦ (Necromancer): Necromancer_02_snd.ogg ---
-------------------------------
-Кто это в Necromancer_06_snd.ogg? (Enter = 'Necromancer' / 's' = skip): Necromancer
---- Группа: Necromancer ---
-
-
->>> АНАЛИЗ ФАЙЛА: Necromancer_07_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Не уверен (Ближе всего к 'Mevius' со счетом 0.5605)
---- Слушаем ТЕКУЩИЙ: Necromancer_07_snd.ogg ---
---- Слушаем САМЫЙ ПОХОЖИЙ ОБРАЗЕЦ (Mevius): Mevius_1_snd.ogg ---
-------------------------------
-Кто это в Necromancer_07_snd.ogg? (Enter = 'Mevius' / 's' = skip): Necromancer
---- Группа: Necromancer ---
-
-
->>> АНАЛИЗ ФАЙЛА: Necromancer_08_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Уверенно опознан как 'Mevius' (0.7881)
---- Группа: Mevius ---
-
-
->>> АНАЛИЗ ФАЙЛА: Necromancer_09_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Уверенно опознан как 'Necromancer' (0.7695)
---- Группа: Necromancer ---
-
-
->>> АНАЛИЗ ФАЙЛА: Necromancer_10_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Уверенно опознан как 'Mevius' (0.8342)
---- Группа: Mevius ---
-
-
->>> АНАЛИЗ ФАЙЛА: Necromancer_11_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Уверенно опознан как 'Necromancer' (0.7887)
---- Группа: Necromancer ---
-
-
->>> АНАЛИЗ ФАЙЛА: Necromancer_12_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Уверенно опознан как 'Necromancer' (0.8074)
---- Группа: Necromancer ---
-
-
->>> АНАЛИЗ ФАЙЛА: Necromancer_13_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Уверенно опознан как 'Necromancer' (0.8137)
---- Группа: Necromancer ---
-
-
->>> АНАЛИЗ ФАЙЛА: Necromancer_14_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Уверенно опознан как 'Necromancer' (0.7709)
---- Группа: Necromancer ---
-
-
->>> АНАЛИЗ ФАЙЛА: Necromancer_15_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Уверенно опознан как 'Necromancer' (0.7827)
---- Группа: Necromancer ---
-
-
->>> АНАЛИЗ ФАЙЛА: Necromancer_Boss_01_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Уверенно опознан как 'Necromancer' (0.8120)
---- Группа: Necromancer ---
-
-
->>> АНАЛИЗ ФАЙЛА: Necromancer_Boss_02_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Уверенно опознан как 'Necromancer' (0.8211)
---- Группа: Necromancer ---
-
-
->>> АНАЛИЗ ФАЙЛА: Necromancer_Boss_03_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Уверенно опознан как 'Mevius' (0.8337)
---- Группа: Mevius ---
-
-
->>> АНАЛИЗ ФАЙЛА: Necromancer_Boss_04_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Уверенно опознан как 'Necromancer' (0.8064)
---- Группа: Necromancer ---
-
-
->>> АНАЛИЗ ФАЙЛА: Necromancer_Boss_05_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Уверенно опознан как 'Necromancer' (0.8509)
---- Группа: Necromancer ---
-
-
->>> АНАЛИЗ ФАЙЛА: Necromancer_snd.wav
-******************************
-РЕЗУЛЬТАТ: Не уверен (Ближе всего к 'Necromancer' со счетом 0.7240)
---- Слушаем ТЕКУЩИЙ: Necromancer_snd.wav ---
---- Слушаем САМЫЙ ПОХОЖИЙ ОБРАЗЕЦ (Necromancer): Necromancer_14_snd.ogg ---
-------------------------------
-Кто это в Necromancer_snd.wav? (Enter = 'Necromancer' / 's' = skip): Necromancer
---- Группа: Necromancer ---
-
-
->>> АНАЛИЗ ФАЙЛА: Nomad_01_snd.ogg
-******************************
-РЕЗУЛЬТАТ: Не уверен (Ближе всего к 'Necromancer' со счетом 0.2073)
---- Слушаем ТЕКУЩИЙ: Nomad_01_snd.ogg ---
---- Слушаем САМЫЙ ПОХОЖИЙ ОБРАЗЕЦ (Necromancer): Necromancer_07_snd.ogg ---
-------------------------------
-Кто это в Nomad_01_snd.ogg? (Enter = 'Necromancer' / 's' = skip):
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ФАЙЛОВ: 112 | ПОРОГ: 0.85
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+>>> АНАЛИЗ: Mevius_1_snd.ogg
+  Лучшее сходство: -1.0000 с 'None'
+--- ТЕКУЩИЙ: Mevius_1_snd.ogg ---
+Кто говорит? (Enter='None', 's'=skip, или ИМЯ): Mevius
+
+>>> АНАЛИЗ: Mevius_2_snd.ogg
+  Лучшее сходство: 0.2838 с 'Mevius'
+РЕЗУЛЬТАТ: Сходство 0.2838 ниже порога.
+--- ТЕКУЩИЙ: Mevius_2_snd.ogg ---
+--- ОБРАЗЕЦ 'Mevius': Mevius_1_snd.ogg ---
+Кто говорит? (Enter='Mevius', 's'=skip, или ИМЯ): Mevius
+
+>>> АНАЛИЗ: Mevius_3_snd.ogg
+  Лучшее сходство: 0.5194 с 'Mevius'
+РЕЗУЛЬТАТ: Сходство 0.5194 ниже порога.
+--- ТЕКУЩИЙ: Mevius_3_snd.ogg ---
+--- ОБРАЗЕЦ 'Mevius': Mevius_2_snd.ogg ---
+Кто говорит? (Enter='Mevius', 's'=skip, или ИМЯ): Mevius
+
+>>> АНАЛИЗ: Mevius_4_snd.ogg
+  Лучшее сходство: 0.7736 с 'Mevius'
+РЕЗУЛЬТАТ: Сходство 0.7736 ниже порога.
+--- ТЕКУЩИЙ: Mevius_4_snd.ogg ---
+--- ОБРАЗЕЦ 'Mevius': Mevius_3_snd.ogg ---
+Кто говорит? (Enter='Mevius', 's'=skip, или ИМЯ): Mevius
+
+>>> АНАЛИЗ: Mevius_5_snd.ogg
+  Лучшее сходство: 0.8346 с 'Mevius'
+РЕЗУЛЬТАТ: Сходство 0.8346 ниже порога.
+--- ТЕКУЩИЙ: Mevius_5_snd.ogg ---
+--- ОБРАЗЕЦ 'Mevius': Mevius_4_snd.ogg ---
+Кто говорит? (Enter='Mevius', 's'=skip, или ИМЯ): Mevius
+
+>>> АНАЛИЗ: Mevius_6_snd.ogg
+  Лучшее сходство: 0.8001 с 'Mevius'
+РЕЗУЛЬТАТ: Сходство 0.8001 ниже порога.
+--- ТЕКУЩИЙ: Mevius_6_snd.ogg ---
+--- ОБРАЗЕЦ 'Mevius': Mevius_4_snd.ogg ---
+Кто говорит? (Enter='Mevius', 's'=skip, или ИМЯ): Mevius
+
+>>> АНАЛИЗ: Mevius_Death_1_snd.ogg
+  Лучшее сходство: 0.7051 с 'Mevius'
+РЕЗУЛЬТАТ: Сходство 0.7051 ниже порога.
+--- ТЕКУЩИЙ: Mevius_Death_1_snd.ogg ---
+--- ОБРАЗЕЦ 'Mevius': Mevius_4_snd.ogg ---
+Кто говорит? (Enter='Mevius', 's'=skip, или ИМЯ): Mevius
+
+>>> АНАЛИЗ: Mevius_Death_2_snd.ogg
+  Лучшее сходство: 0.7318 с 'Mevius'
+РЕЗУЛЬТАТ: Сходство 0.7318 ниже порога.
+--- ТЕКУЩИЙ: Mevius_Death_2_snd.ogg ---
+--- ОБРАЗЕЦ 'Mevius': Mevius_6_snd.ogg ---
+Кто говорит? (Enter='Mevius', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Mevius_Death_3_snd.ogg
+  Лучшее сходство: 0.6284 с 'Mevius'
+РЕЗУЛЬТАТ: Сходство 0.6284 ниже порога.
+--- ТЕКУЩИЙ: Mevius_Death_3_snd.ogg ---
+--- ОБРАЗЕЦ 'Mevius': Mevius_4_snd.ogg ---
+Кто говорит? (Enter='Mevius', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Mevius_Death_4_snd.ogg
+  Лучшее сходство: 0.5669 с 'Mevius'
+РЕЗУЛЬТАТ: Сходство 0.5669 ниже порога.
+--- ТЕКУЩИЙ: Mevius_Death_4_snd.ogg ---
+--- ОБРАЗЕЦ 'Mevius': Mevius_1_snd.ogg ---
+Кто говорит? (Enter='Mevius', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Mevius_Death_5_snd.ogg
+  Лучшее сходство: 0.8012 с 'Mevius'
+РЕЗУЛЬТАТ: Сходство 0.8012 ниже порога.
+--- ТЕКУЩИЙ: Mevius_Death_5_snd.ogg ---
+--- ОБРАЗЕЦ 'Mevius': Mevius_3_snd.ogg ---
+Кто говорит? (Enter='Mevius', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Mevius_Entrance_1_snd.ogg
+  Лучшее сходство: 0.7019 с 'Mevius'
+РЕЗУЛЬТАТ: Сходство 0.7019 ниже порога.
+--- ТЕКУЩИЙ: Mevius_Entrance_1_snd.ogg ---
+--- ОБРАЗЕЦ 'Mevius': Mevius_4_snd.ogg ---
+Кто говорит? (Enter='Mevius', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Mevius_Entrance_2_snd.ogg
+  Лучшее сходство: 0.7881 с 'Mevius'
+РЕЗУЛЬТАТ: Сходство 0.7881 ниже порога.
+--- ТЕКУЩИЙ: Mevius_Entrance_2_snd.ogg ---
+--- ОБРАЗЕЦ 'Mevius': Mevius_Death_5_snd.ogg ---
+Кто говорит? (Enter='Mevius', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Mevius_Entrance_3_snd.ogg
+  Лучшее сходство: 0.8198 с 'Mevius'
+РЕЗУЛЬТАТ: Сходство 0.8198 ниже порога.
+--- ТЕКУЩИЙ: Mevius_Entrance_3_snd.ogg ---
+--- ОБРАЗЕЦ 'Mevius': Mevius_Death_5_snd.ogg ---
+Кто говорит? (Enter='Mevius', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Mevius_Entrance_4_snd.ogg
+  Лучшее сходство: 0.7743 с 'Mevius'
+РЕЗУЛЬТАТ: Сходство 0.7743 ниже порога.
+--- ТЕКУЩИЙ: Mevius_Entrance_4_snd.ogg ---
+--- ОБРАЗЕЦ 'Mevius': Mevius_6_snd.ogg ---
+Кто говорит? (Enter='Mevius', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Mevius_Entrance_5_snd.ogg
+  Лучшее сходство: 0.9963 с 'Mevius'
+РЕЗУЛЬТАТ: Авто-подтверждение 'Mevius'
+
+>>> АНАЛИЗ: Mevius_Entrance_6_snd.ogg
+  Лучшее сходство: 0.7944 с 'Mevius'
+РЕЗУЛЬТАТ: Сходство 0.7944 ниже порога.
+--- ТЕКУЩИЙ: Mevius_Entrance_6_snd.ogg ---
+--- ОБРАЗЕЦ 'Mevius': Mevius_3_snd.ogg ---
+Кто говорит? (Enter='Mevius', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Necromancer_01_snd.ogg
+  Лучшее сходство: 0.7325 с 'Mevius'
+РЕЗУЛЬТАТ: Сходство 0.7325 ниже порога.
+--- ТЕКУЩИЙ: Necromancer_01_snd.ogg ---
+--- ОБРАЗЕЦ 'Mevius': Mevius_4_snd.ogg ---
+Кто говорит? (Enter='Mevius', 's'=skip, или ИМЯ): Necromancer
+
+>>> АНАЛИЗ: Necromancer_02_snd.ogg
+  Лучшее сходство: 0.8625 с 'Necromancer'
+РЕЗУЛЬТАТ: Авто-подтверждение 'Necromancer'
+
+>>> АНАЛИЗ: Necromancer_03_snd.ogg
+  Лучшее сходство: 0.8221 с 'Necromancer'
+РЕЗУЛЬТАТ: Сходство 0.8221 ниже порога.
+--- ТЕКУЩИЙ: Necromancer_03_snd.ogg ---
+--- ОБРАЗЕЦ 'Necromancer': Necromancer_02_snd.ogg ---
+Кто говорит? (Enter='Necromancer', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Necromancer_04_snd.ogg
+  Лучшее сходство: 0.7304 с 'Mevius'
+РЕЗУЛЬТАТ: Сходство 0.7304 ниже порога.
+--- ТЕКУЩИЙ: Necromancer_04_snd.ogg ---
+--- ОБРАЗЕЦ 'Mevius': Mevius_4_snd.ogg ---
+Кто говорит? (Enter='Mevius', 's'=skip, или ИМЯ): Necromancer
+
+>>> АНАЛИЗ: Necromancer_05_snd.ogg
+  Лучшее сходство: 0.7904 с 'Necromancer'
+РЕЗУЛЬТАТ: Сходство 0.7904 ниже порога.
+--- ТЕКУЩИЙ: Necromancer_05_snd.ogg ---
+--- ОБРАЗЕЦ 'Necromancer': Necromancer_01_snd.ogg ---
+Кто говорит? (Enter='Necromancer', 's'=skip, или ИМЯ): Necromancer
+
+>>> АНАЛИЗ: Necromancer_06_snd.ogg
+  Лучшее сходство: 0.7738 с 'Necromancer'
+РЕЗУЛЬТАТ: Сходство 0.7738 ниже порога.
+--- ТЕКУЩИЙ: Necromancer_06_snd.ogg ---
+--- ОБРАЗЕЦ 'Necromancer': Necromancer_01_snd.ogg ---
+Кто говорит? (Enter='Necromancer', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Necromancer_07_snd.ogg
+  Лучшее сходство: 0.5291 с 'Mevius'
+РЕЗУЛЬТАТ: Сходство 0.5291 ниже порога.
+--- ТЕКУЩИЙ: Necromancer_07_snd.ogg ---
+--- ОБРАЗЕЦ 'Mevius': Mevius_1_snd.ogg ---
+Кто говорит? (Enter='Mevius', 's'=skip, или ИМЯ): Necromancer
+
+>>> АНАЛИЗ: Necromancer_08_snd.ogg
+  Лучшее сходство: 0.7983 с 'Necromancer'
+РЕЗУЛЬТАТ: Сходство 0.7983 ниже порога.
+--- ТЕКУЩИЙ: Necromancer_08_snd.ogg ---
+--- ОБРАЗЕЦ 'Necromancer': Necromancer_01_snd.ogg ---
+Кто говорит? (Enter='Necromancer', 's'=skip, или ИМЯ): Necromancer
+
+>>> АНАЛИЗ: Necromancer_09_snd.ogg
+  Лучшее сходство: 0.8045 с 'Necromancer'
+РЕЗУЛЬТАТ: Сходство 0.8045 ниже порога.
+--- ТЕКУЩИЙ: Necromancer_09_snd.ogg ---
+--- ОБРАЗЕЦ 'Necromancer': Necromancer_01_snd.ogg ---
+Кто говорит? (Enter='Necromancer', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Necromancer_10_snd.ogg
+  Лучшее сходство: 0.8425 с 'Necromancer'
+РЕЗУЛЬТАТ: Сходство 0.8425 ниже порога.
+--- ТЕКУЩИЙ: Necromancer_10_snd.ogg ---
+--- ОБРАЗЕЦ 'Necromancer': Necromancer_08_snd.ogg ---
+Кто говорит? (Enter='Necromancer', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Necromancer_11_snd.ogg
+  Лучшее сходство: 0.8036 с 'Necromancer'
+РЕЗУЛЬТАТ: Сходство 0.8036 ниже порога.
+--- ТЕКУЩИЙ: Necromancer_11_snd.ogg ---
+--- ОБРАЗЕЦ 'Necromancer': Necromancer_10_snd.ogg ---
+Кто говорит? (Enter='Necromancer', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Necromancer_12_snd.ogg
+  Лучшее сходство: 0.8040 с 'Necromancer'
+РЕЗУЛЬТАТ: Сходство 0.8040 ниже порога.
+--- ТЕКУЩИЙ: Necromancer_12_snd.ogg ---
+--- ОБРАЗЕЦ 'Necromancer': Necromancer_06_snd.ogg ---
+Кто говорит? (Enter='Necromancer', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Necromancer_13_snd.ogg
+  Лучшее сходство: 0.8441 с 'Necromancer'
+РЕЗУЛЬТАТ: Сходство 0.8441 ниже порога.
+--- ТЕКУЩИЙ: Necromancer_13_snd.ogg ---
+--- ОБРАЗЕЦ 'Necromancer': Necromancer_01_snd.ogg ---
+Кто говорит? (Enter='Necromancer', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Necromancer_14_snd.ogg
+  Лучшее сходство: 0.7539 с 'Necromancer'
+РЕЗУЛЬТАТ: Сходство 0.7539 ниже порога.
+--- ТЕКУЩИЙ: Necromancer_14_snd.ogg ---
+--- ОБРАЗЕЦ 'Necromancer': Necromancer_06_snd.ogg ---
+Кто говорит? (Enter='Necromancer', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Necromancer_15_snd.ogg
+  Лучшее сходство: 0.8062 с 'Necromancer'
+РЕЗУЛЬТАТ: Сходство 0.8062 ниже порога.
+--- ТЕКУЩИЙ: Necromancer_15_snd.ogg ---
+--- ОБРАЗЕЦ 'Necromancer': Necromancer_09_snd.ogg ---
+Кто говорит? (Enter='Necromancer', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Necromancer_Boss_01_snd.ogg
+  Лучшее сходство: 0.8121 с 'Necromancer'
+РЕЗУЛЬТАТ: Сходство 0.8121 ниже порога.
+--- ТЕКУЩИЙ: Necromancer_Boss_01_snd.ogg ---
+--- ОБРАЗЕЦ 'Necromancer': Necromancer_01_snd.ogg ---
+Кто говорит? (Enter='Necromancer', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Necromancer_Boss_02_snd.ogg
+  Лучшее сходство: 0.7551 с 'Necromancer'
+РЕЗУЛЬТАТ: Сходство 0.7551 ниже порога.
+--- ТЕКУЩИЙ: Necromancer_Boss_02_snd.ogg ---
+--- ОБРАЗЕЦ 'Necromancer': Necromancer_12_snd.ogg ---
+Кто говорит? (Enter='Necromancer', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Necromancer_Boss_03_snd.ogg
+  Лучшее сходство: 0.8287 с 'Necromancer'
+РЕЗУЛЬТАТ: Сходство 0.8287 ниже порога.
+--- ТЕКУЩИЙ: Necromancer_Boss_03_snd.ogg ---
+--- ОБРАЗЕЦ 'Necromancer': Necromancer_10_snd.ogg ---
+Кто говорит? (Enter='Necromancer', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Necromancer_Boss_04_snd.ogg
+  Лучшее сходство: 0.8098 с 'Necromancer'
+РЕЗУЛЬТАТ: Сходство 0.8098 ниже порога.
+--- ТЕКУЩИЙ: Necromancer_Boss_04_snd.ogg ---
+--- ОБРАЗЕЦ 'Necromancer': Necromancer_15_snd.ogg ---
+Кто говорит? (Enter='Necromancer', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Necromancer_Boss_05_snd.ogg
+  Лучшее сходство: 0.8171 с 'Necromancer'
+РЕЗУЛЬТАТ: Сходство 0.8171 ниже порога.
+--- ТЕКУЩИЙ: Necromancer_Boss_05_snd.ogg ---
+--- ОБРАЗЕЦ 'Necromancer': Necromancer_13_snd.ogg ---
+Кто говорит? (Enter='Necromancer', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Necromancer_snd.wav
+  Лучшее сходство: 0.7197 с 'Necromancer'
+РЕЗУЛЬТАТ: Сходство 0.7197 ниже порога.
+--- ТЕКУЩИЙ: Necromancer_snd.wav ---
+--- ОБРАЗЕЦ 'Necromancer': Necromancer_04_snd.ogg ---
+Кто говорит? (Enter='Necromancer', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Nomad_01_snd.ogg
+  Лучшее сходство: 0.2431 с 'Necromancer'
+РЕЗУЛЬТАТ: Сходство 0.2431 ниже порога.
+--- ТЕКУЩИЙ: Nomad_01_snd.ogg ---
+--- ОБРАЗЕЦ 'Necromancer': Necromancer_07_snd.ogg ---
+Кто говорит? (Enter='Necromancer', 's'=skip, или ИМЯ): Nomad
+
+>>> АНАЛИЗ: Nomad_02_snd.ogg
+  Лучшее сходство: 0.3819 с 'Nomad'
+РЕЗУЛЬТАТ: Сходство 0.3819 ниже порога.
+--- ТЕКУЩИЙ: Nomad_02_snd.ogg ---
+--- ОБРАЗЕЦ 'Nomad': Nomad_01_snd.ogg ---
+Кто говорит? (Enter='Nomad', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Nomad_03_snd.ogg
+  Лучшее сходство: 0.5820 с 'Nomad'
+РЕЗУЛЬТАТ: Сходство 0.5820 ниже порога.
+--- ТЕКУЩИЙ: Nomad_03_snd.ogg ---
+--- ОБРАЗЕЦ 'Nomad': Nomad_01_snd.ogg ---
+Кто говорит? (Enter='Nomad', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Nomad_04_snd.ogg
+  Лучшее сходство: 0.7327 с 'Nomad'
+РЕЗУЛЬТАТ: Сходство 0.7327 ниже порога.
+--- ТЕКУЩИЙ: Nomad_04_snd.ogg ---
+--- ОБРАЗЕЦ 'Nomad': Nomad_03_snd.ogg ---
+Кто говорит? (Enter='Nomad', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Nomad_05_snd.ogg
+  Лучшее сходство: 0.6524 с 'Nomad'
+РЕЗУЛЬТАТ: Сходство 0.6524 ниже порога.
+--- ТЕКУЩИЙ: Nomad_05_snd.ogg ---
+--- ОБРАЗЕЦ 'Nomad': Nomad_04_snd.ogg ---
+Кто говорит? (Enter='Nomad', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Nomad_06_snd.ogg
+  Лучшее сходство: 0.7394 с 'Nomad'
+РЕЗУЛЬТАТ: Сходство 0.7394 ниже порога.
+--- ТЕКУЩИЙ: Nomad_06_snd.ogg ---
+--- ОБРАЗЕЦ 'Nomad': Nomad_01_snd.ogg ---
+Кто говорит? (Enter='Nomad', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Nomad_07_snd.ogg
+  Лучшее сходство: 0.5946 с 'Nomad'
+РЕЗУЛЬТАТ: Сходство 0.5946 ниже порога.
+--- ТЕКУЩИЙ: Nomad_07_snd.ogg ---
+--- ОБРАЗЕЦ 'Nomad': Nomad_06_snd.ogg ---
+Кто говорит? (Enter='Nomad', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Nomad_08_snd.ogg
+  Лучшее сходство: 0.5941 с 'Nomad'
+РЕЗУЛЬТАТ: Сходство 0.5941 ниже порога.
+--- ТЕКУЩИЙ: Nomad_08_snd.ogg ---
+--- ОБРАЗЕЦ 'Nomad': Nomad_05_snd.ogg ---
+Кто говорит? (Enter='Nomad', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Nomad_09_snd.ogg
+  Лучшее сходство: 0.5413 с 'Nomad'
+РЕЗУЛЬТАТ: Сходство 0.5413 ниже порога.
+--- ТЕКУЩИЙ: Nomad_09_snd.ogg ---
+--- ОБРАЗЕЦ 'Nomad': Nomad_06_snd.ogg ---
+Кто говорит? (Enter='Nomad', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Nomad_10_snd.ogg
+  Лучшее сходство: 0.5999 с 'Nomad'
+РЕЗУЛЬТАТ: Сходство 0.5999 ниже порога.
+--- ТЕКУЩИЙ: Nomad_10_snd.ogg ---
+--- ОБРАЗЕЦ 'Nomad': Nomad_04_snd.ogg ---
+Кто говорит? (Enter='Nomad', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Nomad_11_snd.ogg
+  Лучшее сходство: 0.6940 с 'Nomad'
+РЕЗУЛЬТАТ: Сходство 0.6940 ниже порога.
+--- ТЕКУЩИЙ: Nomad_11_snd.ogg ---
+--- ОБРАЗЕЦ 'Nomad': Nomad_03_snd.ogg ---
+Кто говорит? (Enter='Nomad', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Nomad_12_snd.ogg
+  Лучшее сходство: 0.7126 с 'Nomad'
+РЕЗУЛЬТАТ: Сходство 0.7126 ниже порога.
+--- ТЕКУЩИЙ: Nomad_12_snd.ogg ---
+--- ОБРАЗЕЦ 'Nomad': Nomad_06_snd.ogg ---
+Кто говорит? (Enter='Nomad', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Nomad_13_snd.ogg
+  Лучшее сходство: 0.7400 с 'Nomad'
+РЕЗУЛЬТАТ: Сходство 0.7400 ниже порога.
+--- ТЕКУЩИЙ: Nomad_13_snd.ogg ---
+--- ОБРАЗЕЦ 'Nomad': Nomad_04_snd.ogg ---
+Кто говорит? (Enter='Nomad', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Nomad_14_snd.ogg
+  Лучшее сходство: 0.8045 с 'Nomad'
+РЕЗУЛЬТАТ: Сходство 0.8045 ниже порога.
+--- ТЕКУЩИЙ: Nomad_14_snd.ogg ---
+--- ОБРАЗЕЦ 'Nomad': Nomad_13_snd.ogg ---
+Кто говорит? (Enter='Nomad', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Nomad_15_snd.ogg
+  Лучшее сходство: 0.7275 с 'Nomad'
+РЕЗУЛЬТАТ: Сходство 0.7275 ниже порога.
+--- ТЕКУЩИЙ: Nomad_15_snd.ogg ---
+--- ОБРАЗЕЦ 'Nomad': Nomad_13_snd.ogg ---
+Кто говорит? (Enter='Nomad', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Nomad_Boss_01_snd.ogg
+  Лучшее сходство: 0.6757 с 'Nomad'
+РЕЗУЛЬТАТ: Сходство 0.6757 ниже порога.
+--- ТЕКУЩИЙ: Nomad_Boss_01_snd.ogg ---
+--- ОБРАЗЕЦ 'Nomad': Nomad_09_snd.ogg ---
+Кто говорит? (Enter='Nomad', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Nomad_Boss_02_snd.ogg
+  Лучшее сходство: 0.7427 с 'Nomad'
+РЕЗУЛЬТАТ: Сходство 0.7427 ниже порога.
+--- ТЕКУЩИЙ: Nomad_Boss_02_snd.ogg ---
+--- ОБРАЗЕЦ 'Nomad': Nomad_13_snd.ogg ---
+Кто говорит? (Enter='Nomad', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Nomad_Boss_03_snd.ogg
+  Лучшее сходство: 0.7259 с 'Nomad'
+РЕЗУЛЬТАТ: Сходство 0.7259 ниже порога.
+--- ТЕКУЩИЙ: Nomad_Boss_03_snd.ogg ---
+--- ОБРАЗЕЦ 'Nomad': Nomad_04_snd.ogg ---
+Кто говорит? (Enter='Nomad', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Nomad_Boss_04_snd.ogg
+  Лучшее сходство: 0.7466 с 'Nomad'
+РЕЗУЛЬТАТ: Сходство 0.7466 ниже порога.
+--- ТЕКУЩИЙ: Nomad_Boss_04_snd.ogg ---
+--- ОБРАЗЕЦ 'Nomad': Nomad_14_snd.ogg ---
+Кто говорит? (Enter='Nomad', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Nomad_Boss_05_snd.ogg
+  Лучшее сходство: 0.6955 с 'Nomad'
+РЕЗУЛЬТАТ: Сходство 0.6955 ниже порога.
+--- ТЕКУЩИЙ: Nomad_Boss_05_snd.ogg ---
+--- ОБРАЗЕЦ 'Nomad': Nomad_11_snd.ogg ---
+Кто говорит? (Enter='Nomad', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Nomad_Boss_06_snd.ogg
+  Лучшее сходство: 0.6604 с 'Nomad'
+РЕЗУЛЬТАТ: Сходство 0.6604 ниже порога.
+--- ТЕКУЩИЙ: Nomad_Boss_06_snd.ogg ---
+--- ОБРАЗЕЦ 'Nomad': Nomad_Boss_01_snd.ogg ---
+Кто говорит? (Enter='Nomad', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Nomad_Boss_07_snd.ogg
+  Лучшее сходство: 0.5197 с 'Nomad'
+РЕЗУЛЬТАТ: Сходство 0.5197 ниже порога.
+--- ТЕКУЩИЙ: Nomad_Boss_07_snd.ogg ---
+--- ОБРАЗЕЦ 'Nomad': Nomad_07_snd.ogg ---
+Кто говорит? (Enter='Nomad', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Nomad_Cast_01_snd.wav
+  Лучшее сходство: 0.4684 с 'Mevius'
+РЕЗУЛЬТАТ: Сходство 0.4684 ниже порога.
+--- ТЕКУЩИЙ: Nomad_Cast_01_snd.wav ---
+--- ОБРАЗЕЦ 'Mevius': Mevius_Death_4_snd.ogg ---
+Кто говорит? (Enter='Mevius', 's'=skip, или ИМЯ): Nomad
+
+>>> АНАЛИЗ: Nomad_Cast_02_snd.wav
+  Лучшее сходство: 0.6213 с 'Nomad'
+РЕЗУЛЬТАТ: Сходство 0.6213 ниже порога.
+--- ТЕКУЩИЙ: Nomad_Cast_02_snd.wav ---
+--- ОБРАЗЕЦ 'Nomad': Nomad_Cast_01_snd.wav ---
+Кто говорит? (Enter='Nomad', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Nomad_snd.wav
+  Лучшее сходство: 0.5383 с 'Nomad'
+РЕЗУЛЬТАТ: Сходство 0.5383 ниже порога.
+--- ТЕКУЩИЙ: Nomad_snd.wav ---
+--- ОБРАЗЕЦ 'Nomad': Nomad_04_snd.ogg ---
+Кто говорит? (Enter='Nomad', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Odin_Cutscene_01_snd.ogg
+  Лучшее сходство: 0.4083 с 'Necromancer'
+РЕЗУЛЬТАТ: Сходство 0.4083 ниже порога.
+--- ТЕКУЩИЙ: Odin_Cutscene_01_snd.ogg ---
+--- ОБРАЗЕЦ 'Necromancer': Necromancer_12_snd.ogg ---
+Кто говорит? (Enter='Necromancer', 's'=skip, или ИМЯ): Odin
+
+>>> АНАЛИЗ: Odin_Cutscene_02_snd.ogg
+  Лучшее сходство: 0.6978 с 'Odin'
+РЕЗУЛЬТАТ: Сходство 0.6978 ниже порога.
+--- ТЕКУЩИЙ: Odin_Cutscene_02_snd.ogg ---
+--- ОБРАЗЕЦ 'Odin': Odin_Cutscene_01_snd.ogg ---
+Кто говорит? (Enter='Odin', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Odin_Cutscene_03_snd.ogg
+  Лучшее сходство: 0.8675 с 'Odin'
+РЕЗУЛЬТАТ: Авто-подтверждение 'Odin'
+
+>>> АНАЛИЗ: Odin_Cutscene_04_Laughter_snd.ogg
+  Лучшее сходство: 0.4245 с 'Odin'
+РЕЗУЛЬТАТ: Сходство 0.4245 ниже порога.
+--- ТЕКУЩИЙ: Odin_Cutscene_04_Laughter_snd.ogg ---
+--- ОБРАЗЕЦ 'Odin': Odin_Cutscene_02_snd.ogg ---
+Кто говорит? (Enter='Odin', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Odin_Cutscene_04_snd.ogg
+  Лучшее сходство: 0.8899 с 'Odin'
+РЕЗУЛЬТАТ: Авто-подтверждение 'Odin'
+
+>>> АНАЛИЗ: Paladin_01_snd.ogg
+  Лучшее сходство: 0.2687 с 'Odin'
+РЕЗУЛЬТАТ: Сходство 0.2687 ниже порога.
+--- ТЕКУЩИЙ: Paladin_01_snd.ogg ---
+--- ОБРАЗЕЦ 'Odin': Odin_Cutscene_03_snd.ogg ---
+Кто говорит? (Enter='Odin', 's'=skip, или ИМЯ): Paladin
+
+>>> АНАЛИЗ: Paladin_02_snd.ogg
+  Лучшее сходство: 0.5958 с 'Paladin'
+РЕЗУЛЬТАТ: Сходство 0.5958 ниже порога.
+--- ТЕКУЩИЙ: Paladin_02_snd.ogg ---
+--- ОБРАЗЕЦ 'Paladin': Paladin_01_snd.ogg ---
+Кто говорит? (Enter='Paladin', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Paladin_03_snd.ogg
+  Лучшее сходство: 0.6987 с 'Paladin'
+РЕЗУЛЬТАТ: Сходство 0.6987 ниже порога.
+--- ТЕКУЩИЙ: Paladin_03_snd.ogg ---
+--- ОБРАЗЕЦ 'Paladin': Paladin_01_snd.ogg ---
+Кто говорит? (Enter='Paladin', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Paladin_04_snd.ogg
+  Лучшее сходство: 0.7070 с 'Paladin'
+РЕЗУЛЬТАТ: Сходство 0.7070 ниже порога.
+--- ТЕКУЩИЙ: Paladin_04_snd.ogg ---
+--- ОБРАЗЕЦ 'Paladin': Paladin_03_snd.ogg ---
+Кто говорит? (Enter='Paladin', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Paladin_05_snd.ogg
+  Лучшее сходство: 0.6810 с 'Paladin'
+РЕЗУЛЬТАТ: Сходство 0.6810 ниже порога.
+--- ТЕКУЩИЙ: Paladin_05_snd.ogg ---
+--- ОБРАЗЕЦ 'Paladin': Paladin_04_snd.ogg ---
+Кто говорит? (Enter='Paladin', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Paladin_06_snd.ogg
+  Лучшее сходство: 0.7611 с 'Paladin'
+РЕЗУЛЬТАТ: Сходство 0.7611 ниже порога.
+--- ТЕКУЩИЙ: Paladin_06_snd.ogg ---
+--- ОБРАЗЕЦ 'Paladin': Paladin_03_snd.ogg ---
+Кто говорит? (Enter='Paladin', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Paladin_07_snd.ogg
+  Лучшее сходство: 0.7686 с 'Paladin'
+РЕЗУЛЬТАТ: Сходство 0.7686 ниже порога.
+--- ТЕКУЩИЙ: Paladin_07_snd.ogg ---
+--- ОБРАЗЕЦ 'Paladin': Paladin_03_snd.ogg ---
+Кто говорит? (Enter='Paladin', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Paladin_08_snd.ogg
+  Лучшее сходство: 0.7840 с 'Paladin'
+РЕЗУЛЬТАТ: Сходство 0.7840 ниже порога.
+--- ТЕКУЩИЙ: Paladin_08_snd.ogg ---
+--- ОБРАЗЕЦ 'Paladin': Paladin_04_snd.ogg ---
+Кто говорит? (Enter='Paladin', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Paladin_09_snd.ogg
+  Лучшее сходство: 0.6504 с 'Paladin'
+РЕЗУЛЬТАТ: Сходство 0.6504 ниже порога.
+--- ТЕКУЩИЙ: Paladin_09_snd.ogg ---
+--- ОБРАЗЕЦ 'Paladin': Paladin_07_snd.ogg ---
+Кто говорит? (Enter='Paladin', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Paladin_10_snd.ogg
+  Лучшее сходство: 0.6961 с 'Paladin'
+РЕЗУЛЬТАТ: Сходство 0.6961 ниже порога.
+--- ТЕКУЩИЙ: Paladin_10_snd.ogg ---
+--- ОБРАЗЕЦ 'Paladin': Paladin_08_snd.ogg ---
+Кто говорит? (Enter='Paladin', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Paladin_11_snd.ogg
+  Лучшее сходство: 0.7388 с 'Paladin'
+РЕЗУЛЬТАТ: Сходство 0.7388 ниже порога.
+--- ТЕКУЩИЙ: Paladin_11_snd.ogg ---
+--- ОБРАЗЕЦ 'Paladin': Paladin_06_snd.ogg ---
+Кто говорит? (Enter='Paladin', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Paladin_12_snd.ogg
+  Лучшее сходство: 0.7645 с 'Paladin'
+РЕЗУЛЬТАТ: Сходство 0.7645 ниже порога.
+--- ТЕКУЩИЙ: Paladin_12_snd.ogg ---
+--- ОБРАЗЕЦ 'Paladin': Paladin_03_snd.ogg ---
+Кто говорит? (Enter='Paladin', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Paladin_Boss_01_snd.ogg
+  Лучшее сходство: 0.8121 с 'Paladin'
+РЕЗУЛЬТАТ: Сходство 0.8121 ниже порога.
+--- ТЕКУЩИЙ: Paladin_Boss_01_snd.ogg ---
+--- ОБРАЗЕЦ 'Paladin': Paladin_04_snd.ogg ---
+Кто говорит? (Enter='Paladin', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Paladin_Boss_02_snd.ogg
+  Лучшее сходство: 0.6330 с 'Paladin'
+РЕЗУЛЬТАТ: Сходство 0.6330 ниже порога.
+--- ТЕКУЩИЙ: Paladin_Boss_02_snd.ogg ---
+--- ОБРАЗЕЦ 'Paladin': Paladin_08_snd.ogg ---
+Кто говорит? (Enter='Paladin', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Paladin_Boss_03_snd.ogg
+  Лучшее сходство: 0.6112 с 'Paladin'
+РЕЗУЛЬТАТ: Сходство 0.6112 ниже порога.
+--- ТЕКУЩИЙ: Paladin_Boss_03_snd.ogg ---
+--- ОБРАЗЕЦ 'Paladin': Paladin_07_snd.ogg ---
+Кто говорит? (Enter='Paladin', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Paladin_Boss_04_snd.ogg
+  Лучшее сходство: 0.8020 с 'Paladin'
+РЕЗУЛЬТАТ: Сходство 0.8020 ниже порога.
+--- ТЕКУЩИЙ: Paladin_Boss_04_snd.ogg ---
+--- ОБРАЗЕЦ 'Paladin': Paladin_07_snd.ogg ---
+Кто говорит? (Enter='Paladin', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Paladin_Boss_05_snd.ogg
+  Лучшее сходство: 0.5362 с 'Paladin'
+РЕЗУЛЬТАТ: Сходство 0.5362 ниже порога.
+--- ТЕКУЩИЙ: Paladin_Boss_05_snd.ogg ---
+--- ОБРАЗЕЦ 'Paladin': Paladin_09_snd.ogg ---
+Кто говорит? (Enter='Paladin', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Paladin_snd.wav
+  Лучшее сходство: 0.9890 с 'Paladin'
+РЕЗУЛЬТАТ: Авто-подтверждение 'Paladin'
+
+>>> АНАЛИЗ: Pirate_01_snd.ogg
+  Лучшее сходство: 0.2369 с 'Nomad'
+РЕЗУЛЬТАТ: Сходство 0.2369 ниже порога.
+--- ТЕКУЩИЙ: Pirate_01_snd.ogg ---
+--- ОБРАЗЕЦ 'Nomad': Nomad_03_snd.ogg ---
+Кто говорит? (Enter='Nomad', 's'=skip, или ИМЯ): Pirate
+
+>>> АНАЛИЗ: Pirate_02_snd.ogg
+  Лучшее сходство: 0.4937 с 'Pirate'
+РЕЗУЛЬТАТ: Сходство 0.4937 ниже порога.
+--- ТЕКУЩИЙ: Pirate_02_snd.ogg ---
+--- ОБРАЗЕЦ 'Pirate': Pirate_01_snd.ogg ---
+Кто говорит? (Enter='Pirate', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Pirate_03_snd.ogg
+  Лучшее сходство: 0.2450 с 'Pirate'
+РЕЗУЛЬТАТ: Сходство 0.2450 ниже порога.
+--- ТЕКУЩИЙ: Pirate_03_snd.ogg ---
+--- ОБРАЗЕЦ 'Pirate': Pirate_02_snd.ogg ---
+Кто говорит? (Enter='Pirate', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Pirate_04_snd.ogg
+  Лучшее сходство: 0.5015 с 'Pirate'
+РЕЗУЛЬТАТ: Сходство 0.5015 ниже порога.
+--- ТЕКУЩИЙ: Pirate_04_snd.ogg ---
+--- ОБРАЗЕЦ 'Pirate': Pirate_01_snd.ogg ---
+Кто говорит? (Enter='Pirate', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Pirate_05_snd.ogg
+  Лучшее сходство: 0.6702 с 'Pirate'
+РЕЗУЛЬТАТ: Сходство 0.6702 ниже порога.
+--- ТЕКУЩИЙ: Pirate_05_snd.ogg ---
+--- ОБРАЗЕЦ 'Pirate': Pirate_02_snd.ogg ---
+Кто говорит? (Enter='Pirate', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Pirate_06_snd.ogg
+  Лучшее сходство: 0.6611 с 'Pirate'
+РЕЗУЛЬТАТ: Сходство 0.6611 ниже порога.
+--- ТЕКУЩИЙ: Pirate_06_snd.ogg ---
+--- ОБРАЗЕЦ 'Pirate': Pirate_05_snd.ogg ---
+Кто говорит? (Enter='Pirate', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Pirate_07_snd.ogg
+  Лучшее сходство: 0.5420 с 'Pirate'
+РЕЗУЛЬТАТ: Сходство 0.5420 ниже порога.
+--- ТЕКУЩИЙ: Pirate_07_snd.ogg ---
+--- ОБРАЗЕЦ 'Pirate': Pirate_05_snd.ogg ---
+Кто говорит? (Enter='Pirate', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Pirate_08_snd.ogg
+  Лучшее сходство: 0.5657 с 'Pirate'
+РЕЗУЛЬТАТ: Сходство 0.5657 ниже порога.
+--- ТЕКУЩИЙ: Pirate_08_snd.ogg ---
+--- ОБРАЗЕЦ 'Pirate': Pirate_07_snd.ogg ---
+Кто говорит? (Enter='Pirate', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Pirate_09_snd.ogg
+  Лучшее сходство: 0.7020 с 'Pirate'
+РЕЗУЛЬТАТ: Сходство 0.7020 ниже порога.
+--- ТЕКУЩИЙ: Pirate_09_snd.ogg ---
+--- ОБРАЗЕЦ 'Pirate': Pirate_06_snd.ogg ---
+Кто говорит? (Enter='Pirate', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Pirate_10_snd.ogg
+  Лучшее сходство: 0.6523 с 'Pirate'
+РЕЗУЛЬТАТ: Сходство 0.6523 ниже порога.
+--- ТЕКУЩИЙ: Pirate_10_snd.ogg ---
+--- ОБРАЗЕЦ 'Pirate': Pirate_06_snd.ogg ---
+Кто говорит? (Enter='Pirate', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Pirate_11_snd.ogg
+  Лучшее сходство: 0.7293 с 'Pirate'
+РЕЗУЛЬТАТ: Сходство 0.7293 ниже порога.
+--- ТЕКУЩИЙ: Pirate_11_snd.ogg ---
+--- ОБРАЗЕЦ 'Pirate': Pirate_06_snd.ogg ---
+Кто говорит? (Enter='Pirate', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Pirate_12_snd.ogg
+  Лучшее сходство: 0.5872 с 'Pirate'
+РЕЗУЛЬТАТ: Сходство 0.5872 ниже порога.
+--- ТЕКУЩИЙ: Pirate_12_snd.ogg ---
+--- ОБРАЗЕЦ 'Pirate': Pirate_11_snd.ogg ---
+Кто говорит? (Enter='Pirate', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Pirate_13_snd.ogg
+  Лучшее сходство: 0.6434 с 'Pirate'
+РЕЗУЛЬТАТ: Сходство 0.6434 ниже порога.
+--- ТЕКУЩИЙ: Pirate_13_snd.ogg ---
+--- ОБРАЗЕЦ 'Pirate': Pirate_05_snd.ogg ---
+Кто говорит? (Enter='Pirate', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Pirate_14_snd.ogg
+  Лучшее сходство: 0.6051 с 'Pirate'
+РЕЗУЛЬТАТ: Сходство 0.6051 ниже порога.
+--- ТЕКУЩИЙ: Pirate_14_snd.ogg ---
+--- ОБРАЗЕЦ 'Pirate': Pirate_11_snd.ogg ---
+Кто говорит? (Enter='Pirate', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Pirate_15_snd.ogg
+  Лучшее сходство: 0.6571 с 'Pirate'
+РЕЗУЛЬТАТ: Сходство 0.6571 ниже порога.
+--- ТЕКУЩИЙ: Pirate_15_snd.ogg ---
+--- ОБРАЗЕЦ 'Pirate': Pirate_05_snd.ogg ---
+Кто говорит? (Enter='Pirate', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Pirate_16_snd.ogg
+  Лучшее сходство: 0.6810 с 'Pirate'
+РЕЗУЛЬТАТ: Сходство 0.6810 ниже порога.
+--- ТЕКУЩИЙ: Pirate_16_snd.ogg ---
+--- ОБРАЗЕЦ 'Pirate': Pirate_11_snd.ogg ---
+Кто говорит? (Enter='Pirate', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Pirate_17_snd.ogg
+  Лучшее сходство: 0.6519 с 'Pirate'
+РЕЗУЛЬТАТ: Сходство 0.6519 ниже порога.
+--- ТЕКУЩИЙ: Pirate_17_snd.ogg ---
+--- ОБРАЗЕЦ 'Pirate': Pirate_08_snd.ogg ---
+Кто говорит? (Enter='Pirate', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Pirate_18_snd.ogg
+  Лучшее сходство: 0.5286 с 'Pirate'
+РЕЗУЛЬТАТ: Сходство 0.5286 ниже порога.
+--- ТЕКУЩИЙ: Pirate_18_snd.ogg ---
+--- ОБРАЗЕЦ 'Pirate': Pirate_11_snd.ogg ---
+Кто говорит? (Enter='Pirate', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Pirate_19_snd.ogg
+  Лучшее сходство: 0.7408 с 'Pirate'
+РЕЗУЛЬТАТ: Сходство 0.7408 ниже порога.
+--- ТЕКУЩИЙ: Pirate_19_snd.ogg ---
+--- ОБРАЗЕЦ 'Pirate': Pirate_11_snd.ogg ---
+Кто говорит? (Enter='Pirate', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Pirate_Boss_01_snd.ogg
+  Лучшее сходство: 0.6255 с 'Pirate'
+РЕЗУЛЬТАТ: Сходство 0.6255 ниже порога.
+--- ТЕКУЩИЙ: Pirate_Boss_01_snd.ogg ---
+--- ОБРАЗЕЦ 'Pirate': Pirate_07_snd.ogg ---
+Кто говорит? (Enter='Pirate', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Pirate_Boss_02_snd.ogg
+  Лучшее сходство: 0.8042 с 'Pirate'
+РЕЗУЛЬТАТ: Сходство 0.8042 ниже порога.
+--- ТЕКУЩИЙ: Pirate_Boss_02_snd.ogg ---
+--- ОБРАЗЕЦ 'Pirate': Pirate_11_snd.ogg ---
+Кто говорит? (Enter='Pirate', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Pirate_Boss_03_snd.ogg
+  Лучшее сходство: 0.7461 с 'Pirate'
+РЕЗУЛЬТАТ: Сходство 0.7461 ниже порога.
+--- ТЕКУЩИЙ: Pirate_Boss_03_snd.ogg ---
+--- ОБРАЗЕЦ 'Pirate': Pirate_11_snd.ogg ---
+Кто говорит? (Enter='Pirate', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Pirate_Boss_04_snd.ogg
+  Лучшее сходство: 0.6098 с 'Pirate'
+РЕЗУЛЬТАТ: Сходство 0.6098 ниже порога.
+--- ТЕКУЩИЙ: Pirate_Boss_04_snd.ogg ---
+--- ОБРАЗЕЦ 'Pirate': Pirate_09_snd.ogg ---
+Кто говорит? (Enter='Pirate', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Pirate_Boss_05_snd.ogg
+  Лучшее сходство: 0.7065 с 'Pirate'
+РЕЗУЛЬТАТ: Сходство 0.7065 ниже порога.
+--- ТЕКУЩИЙ: Pirate_Boss_05_snd.ogg ---
+--- ОБРАЗЕЦ 'Pirate': Pirate_Boss_04_snd.ogg ---
+Кто говорит? (Enter='Pirate', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Pirate_Boss_06_snd.ogg
+  Лучшее сходство: 0.6946 с 'Pirate'
+РЕЗУЛЬТАТ: Сходство 0.6946 ниже порога.
+--- ТЕКУЩИЙ: Pirate_Boss_06_snd.ogg ---
+--- ОБРАЗЕЦ 'Pirate': Pirate_13_snd.ogg ---
+Кто говорит? (Enter='Pirate', 's'=skip, или ИМЯ):
+
+>>> АНАЛИЗ: Pirate_snd.wav
+  Лучшее сходство: 0.7863 с 'Pirate'
+РЕЗУЛЬТАТ: Сходство 0.7863 ниже порога.
+--- ТЕКУЩИЙ: Pirate_snd.wav ---
+--- ОБРАЗЕЦ 'Pirate': Pirate_Boss_03_snd.ogg ---
+Кто говорит? (Enter='Pirate', 's'=skip, или ИМЯ):
+Microsoft Windows [Version 10.0.19045.2130]
+(c) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+(venv) d:\Download\Ai\Voice_sorting>
