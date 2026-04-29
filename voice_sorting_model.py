@@ -2,14 +2,15 @@ import os
 import shutil
 import requests
 import torch
-import torchaudio
-import torchaudio.compliance.kaldi as kaldi
+import numpy as np
+import subprocess
 import onnxruntime as ort
 import pygame
 import time
 
 # FFmpeg setup
 current_dir = os.path.dirname(os.path.abspath(__file__))
+# Добавляем текущую директорию в PATH, чтобы subprocess видел ffmpeg.exe
 os.environ["PATH"] += os.pathsep + current_dir
 
 # Настройки
@@ -18,6 +19,41 @@ MODEL_PATH = "voxblink2_model.onnx"
 INPUT_DIR = "input"
 OUTPUT_DIR = "sorted"
 THRESHOLD = 0.60 
+
+def load_audio_with_ffmpeg(file_path, target_sr=16000):
+    """Заменяет torchaudio.load. Использует ffmpeg.exe для декодирования."""
+    ffmpeg_exe = os.path.join(current_dir, "ffmpeg.exe")
+    if not os.path.exists(ffmpeg_exe):
+        ffmpeg_exe = "ffmpeg" # если нет в папке, пробуем системный
+
+    command = [
+        ffmpeg_exe,
+        '-v', 'error',
+        '-i', str(file_path),
+        '-f', 's16le',
+        '-acodec', 'pcm_s16le',
+        '-ar', str(target_sr),
+        '-ac', '1',
+        '-'
+    ]
+    
+    try:
+        process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        out, err = process.communicate()
+        if process.returncode != 0:
+            raise RuntimeError(f"FFmpeg error: {err.decode()}")
+        
+        # Превращаем байты в тензор
+        waveform = np.frombuffer(out, dtype=np.int16).astype(np.float32) / 32768.0
+        return torch.from_numpy(waveform).unsqueeze(0) # добавляем размерность канала [1, T]
+    except Exception as e:
+        print(f"Ошибка декодирования {file_path}: {e}")
+        return None
+
+def get_fbank(wav):
+    import torchaudio.compliance.kaldi as kaldi 
+    return kaldi.fbank(wav, num_mel_bins=80, frame_length=25, frame_shift=10, 
+                        energy_floor=0.0, sample_frequency=16000)
 
 def apply_simple_dereverb(wav):
     wav = wav - wav.mean()
@@ -39,21 +75,24 @@ def play_audio(file_path, label=""):
         print(f"Ошибка звука: {e}")
 
 def get_embedding(session, audio_path):
-    wav, sr = torchaudio.load(audio_path)
-    if sr != 16000:
-        wav = torchaudio.transforms.Resample(sr, 16000)(wav)
-    if wav.shape[0] > 1:
-        wav = wav.mean(dim=0, keepdim=True)
+    # Загружаем через нашу новую функцию на FFmpeg
+    wav = load_audio_with_ffmpeg(audio_path)
+    if wav is None: return None
+    
     wav = apply_simple_dereverb(wav)
+    
+    # Мы оставляем импорт torchaudio только для kaldi.fbank, 
+    # так как эта часть кода весит мало. Главный "жир" torchaudio — в декодерах.
+    import torchaudio.compliance.kaldi as kaldi
     feats = kaldi.fbank(wav, num_mel_bins=80, frame_length=25, frame_shift=10, 
                         energy_floor=0.0, sample_frequency=16000)
+    
     feats = (feats - feats.mean(dim=0)).unsqueeze(0).numpy()
     input_name = session.get_inputs()[0].name
     out = session.run(None, {input_name: feats})
     return torch.from_numpy(out[0])
 
 def main():
-    # Очистка выходной папки для новой сессии
     if os.path.exists(OUTPUT_DIR): shutil.rmtree(OUTPUT_DIR)
     os.makedirs(OUTPUT_DIR)
     os.makedirs(INPUT_DIR, exist_ok=True)
@@ -64,8 +103,6 @@ def main():
             for chunk in r.iter_content(chunk_size=8192): f.write(chunk)
 
     session = ort.InferenceSession(MODEL_PATH, providers=['CPUExecutionProvider'])
-
-    # База теперь только в памяти (пустая при каждом запуске)
     known_speakers = {} 
     files = sorted([f for f in os.listdir(INPUT_DIR) if f.lower().endswith(('.wav', '.ogg', '.mp3', '.flac'))])
     
@@ -81,13 +118,14 @@ def main():
         
         try:
             emb = get_embedding(session, file_path)
+            if emb is None: continue
+
             best_group = None
             best_score = -1.0
             best_sample_path = None
             
             if known_speakers:
                 for group_name, data in known_speakers.items():
-                    # Сходство со всеми файлами группы
                     group_scores = [torch.nn.functional.cosine_similarity(emb, e, dim=-1).item() for e in data["embs"]]
                     max_in_group = max(group_scores)
                     avg_score = sum(group_scores) / len(group_scores)
@@ -108,7 +146,7 @@ def main():
                 
                 play_audio(file_path, "ТЕКУЩИЙ")
                 if best_sample_path:
-                    play_audio(best_sample_path, f"САМЫЙ ПОХОЖИЙ ОБРАЗЕЦ ИЗ '{best_group}'")
+                    play_audio(best_sample_path, f"ОБРАЗЕЦ ИЗ '{best_group}'")
 
                 ans = input(f"Кто это? (Enter='{best_group}', 's'=skip, ИМЯ): ").strip()
                 if ans.lower() == 's': continue
