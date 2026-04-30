@@ -1,1 +1,3 @@
-Put the sliced voices here
+Put the sliced voices here.
+
+Поместите сюда нарезанные голоса.
